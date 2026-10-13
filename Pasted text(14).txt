@@ -1,0 +1,147 @@
+DOI	Key Results 
+10.1007/s11277-020-07722-3	Detection rate has reached between 70% to 100% for all considered dataset.
+10.1088/1742-6596/1743/1/012021	maximum accuracy= 96%
+10.1109/ACCESS.2021.3056149	Final accuracy is achieved as 98.8% with maximum sample size of 1000.
+10.18280/ria.350102	Accuarcy=99.9
+10.3390/math9050500	Maximum accuracy=97.20%
+10.1007/s11277-021-08306-5	It is seen that false positive rate is exteremly low i.e. 0.03 to 0.05 and false negative rate is around 0 to 0.86. It has successfully improved the reliability of network.
+10.1109/JIOT.2021.3077803	Accuarcy=99.5%
+10.3390/en14113125	96.15%
+10.1049/cmu2.12231	Network Lifetime has improved from 14.2% to 69.8% for 60% of the operational nodes in the network
+10.32604/cmc.2021.017914	Real time performance is evaluated in terms of different attack types such as normal, flooding, scheduling, grayhole, blackhole, micro avg., and macro avg. It is found that the normal attack type has achieved maximum precision i.e. 99.8%
+10.3390/s21144946	More than 95% of the F1-score is achieved for the accurate detection of anomalies
+10.3390/app11157050	Detection accuracy got improved with almost 0.99 to 3.45% 
+10.1109/JIOT.2021.3102130	Network Lifetime has improved from 8% to 33%, whereas, packet delivery ratio has improved from 2% to 24%.
+10.3390/electronics10161955	Performance accuracy improved by 19% as compared to previous frameworks. Moreover, computational time has successfully reduced with the difference of 3 to 4 hours.
+10.21203/rs.3.rs-777010/v1	Maximum accuracy=98%
+10.1051/matecconf/202134603002	A prototype is developed by utilizing decentralized management protocol
+10.3390/electronics10222857	Maximum Accuracy=99%
+10.1109/ICTS52701.2021.9608955	Maximum accuracy=91.3%
+10.3390/s21238017	Maximum accuracy=98%
+10.1109/GLOBECOM46510.2021.9685756	Average accuracy of a cluster has been achieved as 74% to 89%
+10.3390/math9050500	
+10.3390/su131910963	Accuracy has been achieved as 96.58% in the case of detection of DoS attack type. Maximum accuracy is achieved as 97.20% in the case of detection ofaverage type of attacks.
+10.1109/JIOT.2021.3103829	Overall accuracy is achieved as 90%, precision score is achieved as 87.5% and F1-score as 89.4%
+10.3390/electronics10212562	Maximum accuracy is achieved within the range of 96% to 100%. 
+10.1109/TNSM.2021.3078381	Maximum accuracy is achieved as 99%
+10.1109/JIOT.2021.3077803	The average accuracy is achieved as 99.5% for the anomaly detection.
+10.1109/ICIMCIS53775.2021.9699352	Maximum accuracy is achieved as 99.16%
+10.1109/I-SMAC52330.2021.9640700	It has been observed that study has achieved 98.2% accuracy while training, 98.5% while validation and 98.25% while testing.
+10.1109/ACCESS.2021.3072916	It has seen that ADM-FOG has introduced maximum recall and precision with the average improvement of +7.36% in the case of GPS and +9.56% in the case of not considering GPS
+10.1002/ett.4121	Maximum accuracy has been achieved as 98.28%
+10.1109/ISCC53001.2021.9631384	Maximum accuracy is achieved as 97.5% for the detection of anomalies present in the network
+10.1007/s11042-020-10354-1	Maximum accuracy has been achieved as 94%
+10.1109/ACCESS.2021.3073785	Performance has been evaluated as 99% of precision, 84% of recall, 91% of F1-score and 142s of execution time.
+10.1007/s40860-020-00126-x	Average accuracy has been achieved as 99.66%
+10.1109/JIOT.2021.3094295	It has been observed that study has discussed data heterogeneity, detection of imbalanced anomaly data. 
+10.1155/2021/1828182	Maximum accuracy is achieved as 97.7% along with low false positive rate of .011
+10.1109/ICC42927.2021.9500825	Maximum accuracy is achieved as 91.62% along with a low false positive rate
+10.3390/s21041026	Maximum detection rate is observed as 93.4% in the case of rank attack.
+10.1007/s11277-021-09001-1	Accuracy levels has ranged from 93% to 100%
+10.1007/s11277-021-09257-7	Maximum accuracy=99.81% 
+10.1007/s00500-021-06473-y	Maximum accuracy=95.53%
+10.1007/s11276-021-02852-3	Maximum accuracy is achieved as 94%
+10.1080/02664763.2021.1929089	Maximum detection accuracy is achieved as 94.302% and maximum false positive rate is achieved as 0.14770.
+10.1080/09540091.2022.2078281	F1-score has reached at 90%.
+10.3390/s22051951	Maximum accuracy=99%
+10.3390/s22072479	True positive rate is achieved as 94% and True Negative rate is achieved as 84%
+10.48550/arXiv.2204.13814	It has achieved higher detection rates i.e. 96.84% and 97.2%
+10.1109/JSEN.2022.3176462	Performed has improved in terms of throughput with almost 4% and false detection rate is achieved as 1%, whereas missed detection rate is achieved as 10%
+10.1007/s10776-022-00574-7	Maximum accuracy is achieved as 99.9% 
+10.1109/IC3SIS54991.2022.9885575	High detection rates (more than 90%) is seen
+10.1109/ACCESS.2022.3210189	Maximum accuracy=97.83%
+10.1109/ISCC55528.2022.9912826	It has detected unknown threats, operational faults and associated misconfiguration.
+10.1145/3549206.3549299	Clustering within network has completely reduced the energy usage of nodes. It has improved security by utilizing trust values along with intrusion detection system.
+10.1186/s13677-022-00344-z	Maximum Accuracy is achieved as 95.81% with the integration of Support Vector Machine into proposed methodology
+10.1109/CITSM56380.2022.9935888	Maximum accuracy=96%
+10.48550/arXiv.2212.13904	F1-score has reached at 90.6% that is nearly 5.2% higher as compared to other existing model
+10.3390/s22218085	Maximum accuracy is achieved as 99.02% among three different considered scenarios using GAN.
+10.1016/j.measen.2022.100625	
+10.3390/app13010030	Maximum accuracy=100%
+10.3390/s23010206	Maximum accuracy=97.01% in second model and 96.08% in first model
+10.1145/3590837.3590906	Accuracy levels are evaluated based on three different datasets i.e. KDDCup99, NSLKDD and CICIDS2017
+10.1109/CoDIT58514.2023.10284184	Maximum accuracy is achieved as 92% whereas F1-score is achieved as 90%
+10.3390/s23208613	Maximum accuracy=92.3%
+10.1186/s42400-023-00161-0	Maximum accuracy is seen as 99.78% and minimum false positive rate is seen as 0.003% with the help of PSO+ANN classifier.
+10.1109/ACCESS.2023.3311854	It has consumed 47.84 of idle-mode energy storage, 52.16% of idle-mode energy consumption, 32.73% of received energy storage, 67.27% of received energy consumption, 35.28% of transmission energy saving and 64.72% of transmission energy consumption. 
+10.1109/ACCESS.2023.3322370	It is found that there is nearly 80% reduction achieved in transmission energy and 60% savings achieved in sensing energy. 
+10.1109/SIST58284.2023.10223548	Maximum accuracy is seen to be achieved as 99.94% in the case of Gradient Boosting
+10.1080/09540091.2023.2246703	Maximum accuracy is achieved as 99.46% over NSL-KDD dataset by utilizing RF-XGB (Random Forest-Extreme Gradient Boost) for effective route discovery as well as detection of attacks
+10.1049/ccs2.12083	This model has achieved 2.8 Mbps of throughput, 0.91% of packet delivery ratio, 26 sec of delay, 0.91% of average residual energy and 0.08% of the packet loss. 
+10.1109/AICAS57966.2023.10168670	It has achieved high detection accuracy within the range of 80-95% on the considered dataset 
+10.1109/ICISCoIS56541.2023.10100379	It has achieved minimum false positive rate as 0.03 and maximum false positive rate as 1.76 over ISSNIP dataset. However, in the case of IBRL dataset, false positive rate is ranging from 0.59 to 1.81.
+10.7717/peerj-cs.1309	Accuracy is almost found to be 100% for the detection of anomalies.
+10.1007/s11277-023-10271-0	Maximum accuracy is achieved as 97.4%
+10.1007/s11277-023-10253-2	Maximum accuracy=99.78%
+10.1007/s11277-023-10252-3	Maximum Accuracy=98.5%
+10.1007/s11036-023-02109-7	Proposed methodology has reduced the actual energy consumption in each round due to the removal of redundant transmissions, reduction in the idle listening, constaint set on maximum size of cluster and selection of cluster head with the help of ANN approach
+10.15837/ijccc.2023.1.4756	Maximum accuracy=98%
+10.3390/app13020702	It is evaluated that area under curve has been increased by nearly 1.5% and 7.7% on the two types of datasets utilized in the study
+10.1016/j.procs.2023.12.064	Maximum accuracy-99.8%
+10.3390/s23198286	Maximum accuracy is achieved as 94.2% using Convolutional Neural Network approach
+10.3390/app132112029	Maximum accuracy rate achieved by proposed model is 99.7% 
+10.3390/s23239331	Maximum accuracy is found to be as 98.5% with the help of proposed model.
+10.3390/app13074482	Maximum accuracy is achieved as 99.9% using decision tree approach
+10.1109/JIOT.2023.3243037	It has resulted into overall reduction of bandwidth consumption by 60%. Further, it has consumed 12kB of RAM and 50 kB of Flash
+10.3390/iot4030016	It has been found that the deep autoencoder has detected anomalies more accurately than iForest and OC-SVM. 
+10.3390/s24020713	Maximum accuracy is achieved as 100% along with GA feaures and 99.9859% along with CFS features and 99.936% without selecting any features by using decision tree classifier.
+10.3390/electronics13112148	Maximum accuracy is achieved as 99.98% along with higher computational model i.e. XGBoost model is seen to be provide 717.75 times faster speed than SVM model in overall detection.
+10.1038/s41598-024-56126-x	Maximum accuracy is achieved as 99.57% with the classification of two classes by considering all features included in dataset and 99.55% with the classification of two classes by considering reduced features included in dataset
+10.1016/j.iot.2024.101095	It has been found that it has completely discard the overall anomalous traffic flow within the IoT network.
+10.1007/s10586-024-04461-z	Maximum accuracy is achieved as 95.72% and 93.60% in case of emulated datasets and real-time datasets. That's why, average accuracy is seen to be as 96.35%.  
+10.1007/s00170-024-14648-8	It has shown improvement with 40% in the detection of anomalies as compared to conventional anomaly detection frameworks
+10.21015/vtse.v12i1.1766	Overall accuracy is achieved as 81%, along with the consideration of class imbalance in the traffic samples
+10.1016/j.jocs.2024.102426	Achieved accuracy has been observed as 99.12% for binary-class classification, 99.31% for multi-class classification.
+10.1016/j.iot.2024.101398	Study has achieved high accuracy i.e. 96.9% for the detection of resource constrained attacks within the IoT network.
+10.1007/s12083-024-01694-y	Propsosed framework has achieved 98.3% of accuracy amd 98.5% of precision in the detection of potential threats within the IoT network
+10.3390/app14219848	Maximum accuracy is achieved as 99.27% with the data splitting in a ratio of 80:20 for training and testing.
+10.1007/s42484-024-00163-2	Maximum accuracy is achieved as 97.79%, precision as 98.37% and F1-score as 98.26%.
+10.1016/j.aej.2024.03.106	Maximum accuracy is achieved as 99.56%, precision as 97.8%, recall as 98.9%, F1-score as 98.3% and AUC as 99% by using Gaussian Process Classifier.
+10.3390/ai5040143	Maximum accuracy is found to be 94.3% by using random forest supervised machine learning model.
+10.1109/ACCESS.2024.3450587	LoRaWAN based framework has discussed the best performance in terms of Mean Squared Error and R-squared score using random forest and linear regression algorithms
+10.1155/2024/9281529	Decision tree model helps to evaluate the performance of model and it has achieved 99.62% of accuracy, 96.96% of recall, 99.25% of precision and 98.08% of F1-score.
+10.1109/TGCN.2024.3403102	Achieved accuracy is 99.2% with the integration of three MLP and recurrent layers for analysis.
+10.1049/2024/4449798	This framework has discussed six previous routing records and three predicted routing records. This comparison has introduced the early detection of anomalous routing patterns.
+10.1109/ICAIIC60209.2024.10463357	It has been observed that overall 99% of accuracy is achieved with the help of supervised learning algorithms considering both datasets such as MQTTset and CIC2017. 
+10.48084/etasr	Overall, 92.90% accuracy is achieved by the proposed framework with the detection of 429,713 anomalies present across the  transactions.
+10.1016/j.csbr.2025.100031	Maximum accuracy has secored upto 1.0 i.e. 100% of the accuracy
+10.1016/j.aej.2025.03.104	It is seen that network lifetime got improved by 13% and residual energy has enhanced by 12%.
+10.3390/s25072146	Maximum accuracy is found to be as 98.92% in the case of 0% anomaly value whereas 75.80% in the case of 40% anomaly value.
+10.1016/j.atech.2025.100944	It is seen that unnecessary traffic got reduced by 9% and F1-score got improved by 5%
+10.1016/j.aej.2025.03.068	Maximum detection rate is found to be as 96%
+10.1016/j.adhoc.2025.103871	Maximum accuracy is achieved as 96.23%
+10.1016/j.procs.2025.04.460	Maximum accuracy is achieved as 97.2%
+10.1016/j.smhl.2025.100582	Results have achieved 92% of accuarcy in terms of detection of anomaly in IoT network
+10.1007/s11276-025-03987-3	Maximum accuracy=96% along with 2% error rate for false positives and 3% error rate for false negatives.
+10.1038/s41598-025-04164-4	Minimum false positive rate is found to be as 15.42% and maximum detection accuracy is achieved as 99.18%
+10.1109/ICDSIS65355.2025.11070848	Maximum precision is seen to be achieved as 98.11% (with DoS attack) and 97.72% (Without attack)
+10.1016/j.asej.2025.103624	Maximum accuracy is achieved as 96.6%
+10.1016/j.asej.2025.103697	It is seen that model has improved energy consumption and decreased delay upto 35% 
+10.1038/s41598-025-12867-x	Maximum accuracy is achieved as 97.4%
+10.1007/s10791-025-09776-y	The proposed model has discussed the least delay, maximum packet delivery ratio, increased encryption time and decryption time.
+10.1109/ICSCC66177.2025.11233287	Maximum accuracy is achieved as 96.8%
+10.1016/j.csa.2025.100115	Maximum accuracy is achieved as 94.18%
+10.1109/JSEN.2025.3640421	Maximum accuracy is found as 96.8%, false positive rate as 3.2% and detection rate as 95.4%
+10.1109/ICSIT65336.2025.11295213	F1-score is found to be as 92%
+10.1007/s10791-025-09852-3	Maximum accuracy is achieved as 99.68%
+10.1109/JIOT.2025.3611815	Maximum accuracy in the detection of anomalies has been achieved as 99.58% over TON-IoT dataset
+10.3390/electronics14204086	Study has reduced the overall energy consumption by 31% and latency by 27%
+10.3390/s25123720	Maximum accuracy is achieved as 96.8%
+10.1016/j.rineng.2025.105562	Achieved accuracy is 99.9%, F1-score is 94.36% , precision is 94.81% and recall is 93.92%.
+10.1007/978-3-031-78412-5_3	Results have improved in the case of accuracy, precision, recall and F1-score as compared to existing framework
+10.3390/s25103150	Results have achieved 92% of accuarcy in terms of detection of anomaly in IoT network
+10.3390/jcp5040090	Maximum accuracy has been achieved as 93% and 94% by considering SECOM and UNSW-NB15 respectively.              
+10.1038/s41598-025-04164-4	Minimum false positive rate is found to be as 15.42% and maximum detection accuracy is achieved as 99.18%
+10.1016/j.mex.2025.103181	Maximum accuracy is achieved as 99.93% with Random Forest machine learning model
+10.1038/s41598-025-33447-z	Best performance is achieved as 98% of accuracy, 97.5% of precision and 97% of recall by using neural network model
+10.1038/s41598-025-20445-4	Mean accuracy has been achieved as 96.70% but individual accuracy seen to be found as very minimal.
+10.1016/j.procs.2025.02.065	Maximum accuracy is achieved as 92% to detect TCP SYN flood related attacks
+10.1109/ECCE64574.2025.11013812	Maximum accuracy is achieved as 99.2% with KD99 dataset and 96.8% with TON_IoT.
+10.1038/s41598-025-19450-4	Maximum detection accuracy is achieved as 99.8% along with strong performance demonstrated by precision, AUC, F1-score and recall.
+10.1038/s41598-025-33426-4	Proposed study has provided nearly 13.7% rate  for attack mitigation. Further, it has introduced 97.7% performance with TON-IoT dataset and 77.8% performance with WUSTL-IIoT dataset.
+10.1016/j.array.2025.100381	It has successfully able to achieve nearly 99.8% of accuracy in order to detect anomalies within the network
+10.22266/ijies2025.0630.12	Model is able to achieve nearly 98% of accuracy, 93.23% of F1-score, 94.67% of recall and 95.89% of precision.
+10.1109/ICC52391.2025.11161334	Overall accuracy is achieved by model is 90%.
+10.1016/j.asoc.2025.113209	Overall performance is seen to be as 99.6% of accuracy, 99.3% of F1-score, 99.2% of recall, and 98.8% of precision.
+10.3390/app15126452	It has shown high detection rate with 91% of F1-Score, and more than 96% of AUC-ROC. Rather than this, latency is seen to be as less than 20ms.
+https://doi.org/10.1038/s41598-025-24968-8	99% accuracy
